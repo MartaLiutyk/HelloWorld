@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8f726bf05d8f04a6ec1a1f2dac4d281c1d7de535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_ffb3ef1caa5ce6f88bc5537fddd06860614cad87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caa35bd833243a34f25b4d91aa29da6838b18cef">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e8b9c0fcd1530147ab5311327c1b7b45c08deab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_17187e7bf2176cefe5f0c08a2434ad3e4491b992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_cfb397d559ea56d034801a73d1eca40526c15ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3724398415e192f02fe522693bcd99db1c7c4e07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_6e7bec354e0cd23f4b43da24c33d78df6f139738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5c0bf12cd873743eaa86ba8836c7e64335306bb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_e20c1231e0c1f5d94a9858a36ab2990861d9e0eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_752869bdebb2ad20d6116d2fb4a67390bc50d982\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="015d4cc84a7a3fab11977cba86751b03902b27dc">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ba97969ed7109b291e2ad673f5385ffcf182e2ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_037da2331e66dc2fe043171910c41a53059bdff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6422da54ba7520e2c4370d56954f119268598f5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_f49545dc432b199d0551fc9862b1f08082ade67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f613f4a28df0f0fcdcecabee47833cb657eb233c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a6ef7d9dee615ab2685fb3fb994a34eedceb5e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melod\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\melod\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_d9b7ba09b32b16a4bc2c55a3a99e54236c98af4f\classes.dex" />
+    </item>
+
+</items>
